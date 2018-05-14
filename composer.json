@@ -1,0 +1,13 @@
+{
+    "name": "murphydownpour/parentheses-validator",
+    "description": "This library is used to check whether parentheses in string are valid or not. (Amount of opening and closing)",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "MurphyDownpour",
+            "email": "zaur.akhmedov9595@gmail.com"
+        }
+    ],
+    "require": {}
+}
