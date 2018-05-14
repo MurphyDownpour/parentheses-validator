@@ -20,4 +20,9 @@ class DataGrabber
             throw new Exception("File is not exist.");
         }       
     }
+
+    public function getData()
+    {
+        return $this->data;
+    }
 }
